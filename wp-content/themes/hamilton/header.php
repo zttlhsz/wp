@@ -21,7 +21,7 @@
 		}
 		?>
 
-		<a class="skip-link button" href="#site-content"><?php _e( 'Skip to the content', 'hamilton' ); ?></a>
+		<a class="skip-link button" href="#site-content"><?php _e( 'Tartalom megtekintése', 'hamilton' ); ?></a>
     
         <header class="section-inner site-header">
 		
